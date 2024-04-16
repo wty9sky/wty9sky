@@ -1,5 +1,5 @@
 <span><a href="/README.md">简体中文</a> | English</span>
-### Hello, I'm Wty9sky [wty9sky](https://www.github.com/wty9sky) 👋
+### Hello, I'm [Wty9sky](https://www.github.com/wty9sky) 👋
 
 [![Website](https://img.shields.io/website?label=zhuchentong.cn&style=for-the-badge&url=https%3A%2F%2Fzhuchentong.cn)](https://wty9sky.github.io/)
 
