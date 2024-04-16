@@ -11,9 +11,6 @@
 - 🌱 I’m currently learning everything 🌝
 - 🤝 I’m looking forward to collaborating with other content creators
 
-中文
-
-
 ### Languages and Tools
 
 ### Front-end
