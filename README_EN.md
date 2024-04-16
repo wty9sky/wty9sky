@@ -86,3 +86,13 @@
   <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-A9A9A9?logo=Adobe-Photoshop&logoColor=31A8FF" alt="Adobe Photoshop" style="display: inline-block;" />&nbsp;
   <img alt="AdobeXD" src="https://img.shields.io/badge/-Adobe%20XD-%23FFFFFF?logo=adobexd&logoColor=%23FF61F6" style="display: inline-block;" />&nbsp;
+
+<!--
+
+### 📈 GitHub Stats
+
+![wty9sky's github stats](https://github-readme-stats.vercel.app/api?username=swdwiki&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wty9sky)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
